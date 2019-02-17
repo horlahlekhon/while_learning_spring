@@ -1,0 +1,10 @@
+io/sisyphus/springbootstarter/courses/Course.class
+io/sisyphus/springbootstarter/courses/CourseController.class
+io/sisyphus/springbootstarter/courses/CourseService.class
+io/sisyphus/springbootstarter/hello/HelloController.class
+io/sisyphus/springbootstarter/courses/CourseRepository.class
+io/sisyphus/springbootstarter/topic/Topic.class
+io/sisyphus/springbootstarter/topic/TopicService.class
+io/sisyphus/springbootstarter/topic/TopicRepository.class
+io/sisyphus/springbootstarter/CourseApiApp.class
+io/sisyphus/springbootstarter/topic/TopicController.class
